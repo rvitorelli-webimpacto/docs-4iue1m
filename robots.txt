@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5s4pgm.salamkita.cfd/sitemap.xml
